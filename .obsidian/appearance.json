@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "accentColor": "",
+  "cssTheme": "Encore",
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "baseFontSize": 14,
+  "baseFontSizeAction": true
+}

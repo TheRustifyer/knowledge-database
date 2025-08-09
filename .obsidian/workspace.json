@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "7fd65ee6a40e558c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3d3b52524d67eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de882917cc1eef10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física/Matemáticas/Trigonometría/Ángulos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ángulos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cffd49aac98134d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfb4dd44c55b4be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccb6866fb9d9b598",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7ed7342ed7a28b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fbdf7410600fa554",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e32780df8ad9933c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "2fd6ffa039346e83",
+    "type": "split",
+    "children": [
+      {
+        "id": "1887105a0a6ea0f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbebb631c6e4c2a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c76a4d1a6ab36342",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cab7a6cfca353aa1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Física/Matemáticas/Trigonometría/Ángulos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ángulos"
+            }
+          },
+          {
+            "id": "0cac8d7737833709",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "ccb6866fb9d9b598",
+  "lastOpenFiles": [
+    "Gaming/Pokemon/Gen 1 to 7.md",
+    "Gaming/Pokemon/Gen 1 to 7.md~",
+    "Gaming/Pokemon",
+    "Excalidraw/construyendo-angulo.excalidraw.svg",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Excalidraw/construyendo-angulo.excalidraw.md",
+    "Excalidraw/construyendo-angulo-area.excalidraw 1.svg",
+    "Excalidraw/construyendo-angulo-area.excalidraw 1.md",
+    "Física/Matemáticas/Trigonometría/Trigonometry.formulas.pdf",
+    "Física/Matemáticas/Trigonometría/Ángulos.md",
+    "Excalidraw/trig-test.excalidraw.svg",
+    "Física/Matemáticas/Trigonometría/Trigonometry.formulas.pdf~",
+    "Excalidraw/trig-test.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-07 14.36.55.excalidraw.md",
+    "2025-08-07.md",
+    "Untitled Kanban.md",
+    "Excalidraw/Drawing 2025-08-07 14.35.14.excalidraw.md",
+    "Física/Grado/0. Cursos Cero/Física UNED/1. Magnitudes y Cantidades.md",
+    "Física/Matemáticas/Untitled.md",
+    "Física/Matemáticas/Trigonometría",
+    "Física/Matemáticas",
+    "Física/Untitled.md",
+    "Física/Grado/0. Cursos Cero/Química UNED",
+    "Física/Grado/0. Cursos Cero/Matemáticas UNED",
+    "Física/Grado/0. Cursos Cero/Física UNED",
+    "Física/Grado",
+    "Computer Science/Operating Systems/Linux/Manjaro x64/Issues/Wrong DNS servers.md",
+    "Gundriz/Electricidad.md",
+    "Gundriz/Tareas y Proyectos (Kanban).md",
+    "Computer Science/Operating Systems/MacOS/LLVM.md",
+    "Home Lab/assets/ZigBee Web Flash Tool.png",
+    "Home Lab/ZigBee Dongle (P).md",
+    "Excalidraw/Drawing 2025-07-31 17.20.54.excalidraw.md",
+    "Computer Science/Operating Systems/MacOS/Podman with docker-compose on MacOS..md",
+    "Music/Cereijo/Técnica/1. Picking/005. Cromatismos y Funky.md",
+    "Music/Cereijo/Técnica/1. Picking/4. Total.JPG",
+    "Music/Cereijo/Técnica/1. Picking/4.1 - 56.JPG",
+    "Music/Cereijo/Técnica/1. Picking/4.2 - 47.JPG",
+    "Music/Cereijo/Técnica/1. Picking/4.3 - 48.JPG",
+    "Music/Cereijo/Técnica/1. Picking/4.4 - 49.JPG",
+    "Home Lab/018. ARR Stack.md",
+    "Home Lab/020. NordVPN.md",
+    "Home Lab/011. Home Assistant.md",
+    "Home Lab/assets/Pasted image 20250504133357.png",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "7fd65ee6a40e558c",
+    "type": "split",
+    "children": [
+      {
+        "id": "53ca4d60a5941c06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bde8e6f5dad2cfa6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cffd49aac98134d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfb4dd44c55b4be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccb6866fb9d9b598",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7ed7342ed7a28b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fbdf7410600fa554",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "2fd6ffa039346e83",
+    "type": "split",
+    "children": [
+      {
+        "id": "1887105a0a6ea0f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbebb631c6e4c2a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c76a4d1a6ab36342",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0cac8d7737833709",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cab7a6cfca353aa1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e32780df8ad9933c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "e32780df8ad9933c",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2025-03-20.md",
+    "Prueba.md",
+    "Agile/003. The 12 Agile Principles.md",
+    "Agile/002. The manifesto four values.md",
+    "Agile/001. Introduction to Agile.md",
+    "Welcome.md",
+    "create a link.md",
+    "agilemanifesto.org.md",
+    "Agile"
+  ]
+}
