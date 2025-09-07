@@ -2,7 +2,7 @@
 
 ---
 
-> [!] **Purpose:**  
+> [!Purpose]  
 > This recently updated 2024 guide explains how to get **every mainline Pokémon game from Gen 1 through Gen 7** onto your CFW (Custom Firmware) 3DS.  
 > While mostly focused on Pokémon games, it covers installing *any* game from Gameboy to 3DS onto your home screen, including useful 3DS CFW modding tips for all users.
 
@@ -10,18 +10,18 @@
 
 # Table of Contents Highlights
 
-| Part | Topic |
-|-------|--------------------|
-| Part 1 | Useful Programs & Sources |
-| Part 2 | Getting every game on your Home Screen |
-| Part 3 | Migrating saves onto 3DS |
-| Part 4 | Cheats & Hacks (PKSM, Checkpoint, etc.) |
-| Part 5 | Randomizers, Patches, & Romhacks |
-| Part 6 | Migrating Pokémon up and down generations |
-| Part 7 | Trading |
-| Part 8 | Peripheral Games & Accessories |
-| Part 9 | Current unsolved CFW 3DS Pokémon mysteries |
-| Part 10 | Bonus Stuff |
+| Part    | Topic                                      |
+| ------- | ------------------------------------------ |
+| Part 1  | Useful Programs & Sources                  |
+| Part 2  | Getting every game on your Home Screen     |
+| Part 3  | Migrating saves onto 3DS                   |
+| Part 4  | Cheats & Hacks (PKSM, Checkpoint, etc.)    |
+| Part 5  | Randomizers, Patches, & Romhacks           |
+| Part 6  | Migrating Pokémon up and down generations  |
+| Part 7  | Trading                                    |
+| Part 8  | Peripheral Games & Accessories             |
+| Part 9  | Current unsolved CFW 3DS Pokémon mysteries |
+| Part 10 | Bonus Stuff                                |
 
 ---
 
@@ -36,7 +36,8 @@
 - **FBI app**: Used to install .CIA files for 3DS and VC games.  
 - **FTPD & 3DShell**: For quick file transfer and SD card file management via 3DS.  
 
-> [!] *Do not use the Ghost eShop as their games tend to be buggy.*
+> [!warning]
+> Do not use the Ghost eShop as their games tend to be buggy.*
 
 ---
 
@@ -59,7 +60,8 @@
 - **Important:** Do *not* rename `.nds` files once forwarders are created—this breaks the installation.  
 - TwilightMenu++ is recommended as an alternative launcher.  
 
-> [!] If you encounter "DSi binaries missing" error on Gen 5 games, replace the ROM with a new dump to restore full features.
+> [!note]
+> If you encounter "DSi binaries missing" error on Gen 5 games, replace the ROM with a new dump to restore full features.
 
 ### 3DS (Gen 6 & 7)
 
@@ -98,10 +100,11 @@
 ---
 
 # Part 6 to 10: Advanced Topics & Extras
-
-Covers migration of Pokémon up/down generations, trading information, peripherals, current CFW mysteries, and bonus content for enthusiasts.
-
----
+- Migrate Pokémon between any gens using PKSM, saves, Bank, etc.
+- DS/3DS trading can be set up locally—look for PKSM and online guides for transferring between generations.
+- Peripherals: some games let you use Pokéwalker, Dream Radar, etc. with save editors.
+- Open CFW Pokémon mysteries: missing events, rare glitches, odd bugs.
+- Bonus: install fan games, emulator home menu launchers, etc.
 
 Thank you for being part of the community and enjoy building your ultimate Pokémon collection on the 3DS! 🙌🎉
 

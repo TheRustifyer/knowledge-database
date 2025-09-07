@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4a3d3b52524d67eb",
+        "id": "98a144435452686b",
         "type": "tabs",
         "children": [
           {
-            "id": "de882917cc1eef10",
+            "id": "3c410e9a0b2c681e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Matemáticas/Trigonometría/3. El círculo unitario.md",
+                "file": "Emojis (extra).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. El círculo unitario"
+              "title": "Emojis (extra)"
+            }
+          },
+          {
+            "id": "3f7d0cf111e3bc50",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/intervalos-ángulos-cuadrantes.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "intervalos-ángulos-cuadrantes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "delete logs",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,64 +101,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 350
   },
   "right": {
     "id": "2fd6ffa039346e83",
     "type": "split",
     "children": [
       {
-        "id": "1887105a0a6ea0f4",
+        "id": "dc3032036b20fe5d",
         "type": "tabs",
         "children": [
           {
-            "id": "dbebb631c6e4c2a5",
+            "id": "6409b0c4ac589843",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "Excalidraw/intervalos-ángulos-cuadrantes.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for intervalos-ángulos-cuadrantes"
             }
           },
           {
-            "id": "c76a4d1a6ab36342",
+            "id": "2f05a8fa75ff7db5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/intervalos-ángulos-cuadrantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from intervalos-ángulos-cuadrantes"
             }
           },
           {
-            "id": "cab7a6cfca353aa1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Física/Matemáticas/Trigonometría/3. El círculo unitario.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 3. El círculo unitario"
-            }
-          },
-          {
-            "id": "0cac8d7737833709",
+            "id": "4912674dec29b44a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -160,21 +160,26 @@
             }
           },
           {
-            "id": "496cac5279a68823",
+            "id": "72af3790eac8a805",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/intervalos-ángulos-cuadrantes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of intervalos-ángulos-cuadrantes"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,54 +195,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "de882917cc1eef10",
+  "active": "3f7d0cf111e3bc50",
   "lastOpenFiles": [
-    "Física/Matemáticas/Trigonometría/2. Las 6 funciones trigonométricas.md",
-    "Física/Matemáticas/Trigonometría/3. El círculo unitario.md",
-    "Física/Matemáticas/Trigonometría/1. Ángulos.md",
-    "Física/Matemáticas/Trigonometría/definiciones/Teorema de Pitágoras.md",
-    "Física/Matemáticas/Trigonometría/definiciones/Hipotenusa.md",
-    "Física/Matemáticas/Trigonometría/definiciones/Ángulos cuadrantales.md",
-    "Física/Matemáticas/Trigonometría/definiciones/Ángulos coterminales.md",
-    "Home Lab/019. Grocy.md",
-    "Home Lab/Arr Stack.md",
-    "Untitled.base",
-    "Computer Science/Docker/Troubleshooting.md",
-    "Emojis (extra).md",
-    "Ajedrez/Aperturas/Blancas/Irregulares",
-    "Ajedrez/Aperturas/Blancas/De Flanco",
-    "Ajedrez/Aperturas/Blancas/Posicionales",
-    "Ajedrez/Aperturas/Blancas/Clásicas",
-    "Ajedrez/Aperturas/Blancas/Juego Agresivo",
-    "Ajedrez/Aperturas/Blancas/Sistemas Universales/Sistema Londres",
-    "Ajedrez/Aperturas/Blancas/Sistemas Universales",
-    "Ajedrez/Aperturas/Blancas",
-    "Ajedrez/Aperturas",
-    "Ángulos.md",
-    "Home Lab/PhotoPrism.md",
-    "Física/Matemáticas/Álgebra/definiciones/Recíproco o inverso multiplicativo.md",
-    "Excalidraw/circ-unit-tri-rect.svg",
-    "Excalidraw/circ-unit-tri-rect.md",
-    "Excalidraw/lado-contiguo-opuesto-ángulo-recto.svg",
-    "Excalidraw/dibujo-triángulo-rectángulo.svg",
-    "Excalidraw/lado-contiguo-opuesto-ángulo-recto.md",
-    "Excalidraw/dibujo-triángulo-rectángulo.md",
-    "Física/Matemáticas/Trigonometría/Ángulos.md",
-    "Física/Matemáticas/Trigonometría/1. Ángulos (SFConflict The Rustifyer 2025-08-28-16-41-27).md",
-    "Home Lab/011. Home Assistant (SFConflict The Rustifyer 2025-08-28-16-41-27).md",
-    "Gaming/Pokemon/Gen 1 to 7 (SFConflict The Rustifyer 2025-08-28-16-41-27).md",
-    "Excalidraw/cuadrantes.excalidraw (SFConflict The Rustifyer 2025-08-28-16-41-27).md",
-    "Excalidraw/construyendo-angulo-area.excalidraw 1 (SFConflict The Rustifyer 2025-08-28-16-41-27).md",
-    "Física/Matemáticas/Trigonometría/defs/Ángulos cuadrantales.md",
-    "Home Lab/011. Home Assistant (SFConflict The Rustifyer 2025-08-27-09-30-18).md",
-    "Gaming/Pokemon/Gen 1 to 7 (SFConflict The Rustifyer 2025-08-27-09-30-18).md",
-    "Excalidraw/construyendo-angulo-area.excalidraw 1.svg",
-    "Excalidraw/construyendo-angulo.excalidraw.svg",
-    "Excalidraw/intervalos-ángulos-cuadrantes.svg",
-    "Excalidraw/negative_angle_std_pos.excalidraw.svg",
-    "Excalidraw/positive_angle.excalidraw.svg",
+    "Excalidraw/intervalos-ángulos-cuadrantes.svg~",
+    "Excalidraw/intervalos-ángulos-cuadrantes.md~",
     "Excalidraw/cuadrantes.excalidraw.svg",
+    "Excalidraw/intervalos-ángulos-cuadrantes.md",
+    "Excalidraw/construyendo-angulo.excalidraw.md",
+    "Física/Matemáticas/Trigonometría/1. Ángulos.md",
+    "Home Lab/011. Home Assistant (SFConflict Lili 2025-08-25-19-50-35).md",
+    "Física/Matemáticas/Trigonometría/Ángulos.md",
+    "Home Lab/011. Home Assistant (SFConflict Lili 2025-08-25-19-50-35).md~",
+    "Física/Matemáticas/Trigonometría/Ángulos.md~",
+    "Emojis (extra).md",
+    "Excalidraw/construyendo-angulo-area.excalidraw 1 (SFConflict The Rustifyer 2025-08-25-18-14-56).md",
+    "Excalidraw/construyendo-angulo-area.excalidraw 1.svg",
+    "Excalidraw/construyendo-angulo-area.excalidraw 1.md",
+    "Excalidraw/Drawing 2025-08-25 19.27.58.excalidraw.md",
+    "Ángulos.md",
+    "Excalidraw/intervalos-ángulos-cuadrantes.svg",
+    "Excalidraw/cuadrantes.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-25 19.27.58.excalidraw.svg",
+    "Untitled Kanban.md",
+    "Física/Matemáticas/Trigonometría/defs/Ángulos cuadrantales.md",
+    "Física/Matemáticas/Trigonometría/defs",
+    "Music/Cereijo/Técnica/2. Legato/Legato I .pdf",
+    "Music/Cereijo/Técnica/2. Legato/Legato II.pdf",
+    "Music/Cereijo/Técnica/2. Legato/Legato III.pdf",
+    "Home Lab/011. Home Assistant (SFConflict The Rustifyer 2025-08-25-18-14-56).md",
+    "Music/Cereijo/Técnica/2. Legato/Legato IV.pdf",
+    "Gaming/Pokemon/Gen 1 to 7 (SFConflict The Rustifyer 2025-08-25-18-14-56).md",
+    "Gaming/Pokemon/Gen 1 to 7.md~",
+    "Excalidraw/negative_angle_std_pos.excalidraw.md",
+    "Excalidraw/negative_angle_std_pos.excalidraw.svg",
+    "Excalidraw/positive_angle.excalidraw.md",
+    "Excalidraw/negative_angle.excalidraw.md",
+    "Excalidraw/negative_angle.excalidraw.svg",
+    "Excalidraw/positive_angle.excalidraw.svg",
+    "Computer Science/Docker/Troubleshooting.md",
+    "Computer Science/Docker/Logs path.md",
+    "Gaming/Pokemon/Gen 1 to 7.md",
+    "Computer Science/Operating Systems/Android/Flash LineageOS into the TB125FU.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Excalidraw/construyendo-angulo.excalidraw.svg",
     "Excalidraw/trig-test.excalidraw.svg",
+    "Excalidraw/trig-test.excalidraw.md",
+    "Home Lab/assets/ZigBee Web Flash Tool.png",
     "Untitled.canvas"
   ]
 }
