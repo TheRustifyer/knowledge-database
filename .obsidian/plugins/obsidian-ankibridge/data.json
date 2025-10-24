@@ -1,0 +1,22 @@
+{
+  "currentMigrationVersion": 1,
+  "tagInAnki": "obsidian",
+  "foldersToIgnore": [
+    "Home Lab",
+    "Personal"
+  ],
+  "periodicPingEnabled": true,
+  "periodicPingInterval": 30,
+  "fallbackDeck": "Default",
+  "defaultDeckMaps": [],
+  "blueprints": {},
+  "processors": {
+    "FinalDebugPostprocessor": false
+  },
+  "ankiConnectAddress": "127.0.0.1",
+  "ankiConnectPort": 8765,
+  "markToCloze": true,
+  "deleteToCloze": true,
+  "debug": false,
+  "debugNetwork": false
+}

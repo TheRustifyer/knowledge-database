@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "7fd65ee6a40e558c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3d3b52524d67eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de882917cc1eef10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Lab/019. Grocy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "019. Grocy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cffd49aac98134d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfb4dd44c55b4be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccb6866fb9d9b598",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7ed7342ed7a28b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "delete logs",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fbdf7410600fa554",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e32780df8ad9933c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "2fd6ffa039346e83",
+    "type": "split",
+    "children": [
+      {
+        "id": "1887105a0a6ea0f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbebb631c6e4c2a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c76a4d1a6ab36342",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cab7a6cfca353aa1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home Lab/019. Grocy.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 019. Grocy"
+            }
+          },
+          {
+            "id": "0cac8d7737833709",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "496cac5279a68823",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "de882917cc1eef10",
+  "lastOpenFiles": [
+    "Física/Matemáticas/Álgebra/función.md",
+    "Física/Matemáticas/Trigonometría/definiciones/Ángulo de referencia.md",
+    "Física/Matemáticas/Trigonometría/definiciones/Cuadrante.md",
+    "Excalidraw/áng-cuadrantal-ter-cua.svg",
+    "Excalidraw/áng-cuadrantal-ter-cua.md",
+    "Excalidraw/áng-cuadrantal-seg-cua.svg",
+    "Excalidraw/áng-cuadrantal-seg-cua.md",
+    "Excalidraw/áng-cuadrantal-primer-cua.svg",
+    "Excalidraw/áng-cuadrantal-primer-cua.md",
+    "Excalidraw/áng-cuadrantal-cua-cua.md",
+    "Física/Matemáticas/Trigonometría/imágenes/krista-king-unit-circle-special-values.png",
+    "Física/Matemáticas/Trigonometría/definiciones/Rotación principal.md",
+    "Física/Matemáticas/Trigonometría/definiciones/Ecuación estándar de un círculo.md",
+    "Untitled.md",
+    "Física/Matemáticas/Trigonometría/definiciones/Radianes.md",
+    "Física/Matemáticas/Trigonometría/definiciones/Grados.md",
+    "Física/Matemáticas/Trigonometría/imágenes",
+    "Física/Matemáticas/Trigonometría/3. El círculo unitario.md",
+    "Home Lab/Arr Stack.md",
+    "Untitled.base",
+    "Computer Science/Docker/Troubleshooting.md",
+    "Física/Matemáticas/Trigonometría/2. Las 6 funciones trigonométricas.md",
+    "Emojis (extra).md",
+    "Ajedrez/Aperturas/Blancas/Irregulares",
+    "Ajedrez/Aperturas/Blancas/De Flanco",
+    "Ajedrez/Aperturas/Blancas/Posicionales",
+    "Ajedrez/Aperturas/Blancas/Clásicas",
+    "Ajedrez/Aperturas/Blancas/Juego Agresivo",
+    "Ajedrez/Aperturas/Blancas/Sistemas Universales/Sistema Londres",
+    "Ajedrez/Aperturas/Blancas/Sistemas Universales",
+    "Ajedrez/Aperturas/Blancas",
+    "Ángulos.md",
+    "Home Lab/019. Grocy.md",
+    "Física/Matemáticas/Trigonometría/1. Ángulos.md",
+    "Home Lab/PhotoPrism.md",
+    "Física/Matemáticas/Álgebra/definiciones/Recíproco o inverso multiplicativo.md",
+    "Física/Matemáticas/Trigonometría/definiciones/Teorema de Pitágoras.md",
+    "Excalidraw/circ-unit-tri-rect.svg",
+    "Física/Matemáticas/Trigonometría/definiciones/Hipotenusa.md",
+    "Excalidraw/circ-unit-tri-rect.md",
+    "Física/Matemáticas/Trigonometría/definiciones/Ángulos coterminales.md",
+    "Excalidraw/lado-contiguo-opuesto-ángulo-recto.svg",
+    "Excalidraw/dibujo-triángulo-rectángulo.svg",
+    "Excalidraw/construyendo-angulo-area.excalidraw 1.svg",
+    "Excalidraw/construyendo-angulo.excalidraw.svg",
+    "Excalidraw/intervalos-ángulos-cuadrantes.svg",
+    "Untitled.canvas"
+  ]
+}

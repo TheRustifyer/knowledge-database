@@ -1,2 +1,0 @@
-
-El teorema de Pitágoras

@@ -7,6 +7,10 @@
   "monospaceFontFamily": "JetBrains Mono",
   "showViewHeader": true,
   "showRibbon": true,
-  "baseFontSize": 15,
-  "baseFontSizeAction": true
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "callout-idea",
+    "callout-formula"
+  ]
 }

@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "7fd65ee6a40e558c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3d3b52524d67eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de882917cc1eef10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física/Matemáticas/Trigonometría/1. Ángulos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Ángulos"
+            }
+          },
+          {
+            "id": "0d82e0bf9ee28b93",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cffd49aac98134d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfb4dd44c55b4be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccb6866fb9d9b598",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7ed7342ed7a28b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fbdf7410600fa554",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e32780df8ad9933c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "2fd6ffa039346e83",
+    "type": "split",
+    "children": [
+      {
+        "id": "1887105a0a6ea0f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbebb631c6e4c2a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c76a4d1a6ab36342",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cab7a6cfca353aa1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Física/Matemáticas/Trigonometría/1. Ángulos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Ángulos"
+            }
+          },
+          {
+            "id": "0cac8d7737833709",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "496cac5279a68823",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "0d82e0bf9ee28b93",
+  "lastOpenFiles": [
+    "Home Lab/PhotoPrism.md",
+    "Home Lab/Arr Stack.md",
+    "Física/Matemáticas/Álgebra/definiciones/Recíproco o inverso multiplicativo.md",
+    "Física/Matemáticas/Trigonometría/definiciones/Teorema de Pitágoras.md",
+    "Excalidraw/circ-unit-tri-rect.svg",
+    "Física/Matemáticas/Trigonometría/definiciones/Hipotenusa.md",
+    "Excalidraw/circ-unit-tri-rect.md",
+    "Excalidraw/circ-unit-tri-rect.svg~",
+    "Física/Matemáticas/Álgebra/definiciones",
+    "Física/Matemáticas/Álgebra",
+    "Física/Matemáticas/Trigonometría/definiciones/Ángulos coterminales.md",
+    "Física/Matemáticas/Trigonometría/2. Las 6 funciones trigonométricas.md",
+    "Excalidraw/lado-contiguo-opuesto-ángulo-recto.svg",
+    "Excalidraw/dibujo-triángulo-rectángulo.svg",
+    "Excalidraw/lado-contiguo-opuesto-ángulo-recto.md",
+    "Excalidraw/dibujo-triángulo-rectángulo.md",
+    "Excalidraw/dibujo-triángulo-rectángulo.md~",
+    "Física/Matemáticas/Trigonometría/Ángulos.md",
+    "Física/Matemáticas/Trigonometría/1. Ángulos (SFConflict The Rustifyer 2025-08-28-16-41-27).md",
+    "Física/Matemáticas/Trigonometría/1. Ángulos.md",
+    "Ángulos.md",
+    "Home Lab/011. Home Assistant (SFConflict The Rustifyer 2025-08-28-16-41-27).md",
+    "Gaming/Pokemon/Gen 1 to 7 (SFConflict The Rustifyer 2025-08-28-16-41-27).md",
+    "Excalidraw/cuadrantes.excalidraw (SFConflict The Rustifyer 2025-08-28-16-41-27).md",
+    "Excalidraw/construyendo-angulo-area.excalidraw 1 (SFConflict The Rustifyer 2025-08-28-16-41-27).md",
+    "Física/Matemáticas/Trigonometría/defs/Ángulos cuadrantales.md",
+    "Física/Matemáticas/Trigonometría/defs",
+    "Home Lab/011. Home Assistant (SFConflict The Rustifyer 2025-08-27-09-30-18).md",
+    "Gaming/Pokemon/Gen 1 to 7 (SFConflict The Rustifyer 2025-08-27-09-30-18).md",
+    "Excalidraw/construyendo-angulo-area.excalidraw 1 (SFConflict The Rustifyer 2025-08-27-09-30-18).md",
+    "Física/Matemáticas/Trigonometría/definiciones/Ángulos cuadrantales.md",
+    "Física/Matemáticas/Trigonometría/Trigonometry.formulas.pdf",
+    "Excalidraw/construyendo-angulo.excalidraw.md",
+    "Excalidraw/construyendo-angulo-area.excalidraw 1.svg",
+    "Excalidraw/construyendo-angulo-area.excalidraw 1.md",
+    "Excalidraw/construyendo-angulo.excalidraw.svg",
+    "Excalidraw/intervalos-ángulos-cuadrantes.md",
+    "Excalidraw/intervalos-ángulos-cuadrantes.svg",
+    "Excalidraw/negative_angle_std_pos.excalidraw.svg",
+    "Excalidraw/positive_angle.excalidraw.svg",
+    "Excalidraw/cuadrantes.excalidraw.svg",
+    "Music/Cereijo/Técnica/2. Legato/Legato I .pdf",
+    "Music/Cereijo/Técnica/2. Legato/Legato III.pdf",
+    "Music/Cereijo/Técnica/2. Legato/Legato II.pdf",
+    "Music/Cereijo/Técnica/2. Legato/Legato IV.pdf",
+    "Excalidraw/trig-test.excalidraw.svg",
+    "Untitled.canvas"
+  ]
+}
